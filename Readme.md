@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👯 I’m looking to collaborate on **Web Development, Machine Learning, Discord Bot**
+- 👯 I’m looking to collaborate on **Web Development, Machine Learning, Any project realted to python**
 
 - 🤝 I’m looking for help with **React Js**
 
