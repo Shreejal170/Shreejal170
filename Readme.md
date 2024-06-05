@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreejal170" alt="shreejal170" /></a> </p>
 
-- 🔭 I’m currently working on **React Js**
+- 🔭 I’m currently working on **Django**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Django**
 
 - 👯 I’m looking to collaborate on **Web Development, Machine Learning, Any project realted to python**
 
-- 🤝 I’m looking for help with **React Js**
+- 🤝 I’m looking for help with **??**
 
 - 💬 Ask me about **Python, Machine Learning, Node js**
 
