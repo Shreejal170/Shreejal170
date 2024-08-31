@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreejal170" alt="shreejal170" /></a> </p>
 
-- 🔭 I’m currently working on **Django**
+- 🔭 I’m currently working on **Unity**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Game Development**
 
-- 👯 I’m looking to collaborate on **Web Development, Machine Learning, Any project realted to python**
+- 👯 I’m looking to collaborate on **Game Development, Web Development, Machine Learning, Any project realted to python**
 
 - 🤝 I’m looking for help with **??**
 
-- 💬 Ask me about **Python, Machine Learning, Node js**
+- 💬 Ask me about **Unity, Python, Machine Learning, Node js, C#**
 
 - 📫 How to reach me **shreejalkc@gmail.com**
 
