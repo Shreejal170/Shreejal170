@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **??**
 
-- 💬 Ask me about **Unity, Python, Machine Learning, Node js, C#**
+- 💬 Ask me about **Unity, Python, Machine Learning, Node js, React, Django, C#**
 
 - 📫 How to reach me **shreejalkc@gmail.com**
 
