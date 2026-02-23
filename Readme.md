@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Shreejal</h1>
 <h3 align="center">A passionate developer and security researcher from Nepal</h3>
 
+> 🎓 **Academic & Data Science Hub:** I am heavily engaged in Artificial Intelligence and Machine Learning. For my Python data analysis projects, numerical methods research, and core ML repositories, please visit my student profile at **[@Shreejal172](https://github.com/Shreejal172)**.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreejal170&label=Profile%20views&color=0e75b6&style=flat" alt="shreejal170" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreejal170" alt="shreejal170" /></a> </p>
 
 - 💼 **Background:** Former Game Developer turned Web Security & AI/ML Enthusiast.
 
-- 🔭 **I’m currently working on:** Bug bounty hunting, web application penetration testing, and building custom security labs (like my CWE-200 extraction lab!).
+- 🔭 **I’m currently working on:** Bug bounty hunting, web application penetration testing, and building custom security labs.
 
-- 🌱 **I’m currently learning:** Advanced offensive security methodologies (OWASP Top 10, Active Directory attacks) and machine learning algorithms.
+- 🌱 **I’m currently learning:** Advanced offensive security methodologies (OWASP Top 10, Active Directory) and building machine learning models.
 
-- 👯 **I’m looking to collaborate on:** CTF competitions, bug bounty recon, full-stack MERN/Django applications, and Python data analysis projects.
+- 👯 **I’m looking to collaborate on:** CTF competitions, MERN/Django applications, and Python data analysis projects.
 
 - 🤝 **I’m looking for help with:** Navigating the HackerOne landscape and developing advanced web exploits.
 
-- 💬 **Ask me about:** Web App Pentesting, Python, Node.js, React, Django, and numerical methods in mathematics.
+- 💬 **Ask me about:** Web App Pentesting, Python, Machine Learning, React, Django, and C#.
 
 - 📫 **How to reach me:** shreejalkc@gmail.com
 
