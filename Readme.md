@@ -1,23 +1,25 @@
 <h1 align="center">Hi 👋, I'm Shreejal</h1>
-<h3 align="center">A passionate developer from Nepal</h3>
+<h3 align="center">A passionate developer and security researcher from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreejal170&label=Profile%20views&color=0e75b6&style=flat" alt="shreejal170" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreejal170" alt="shreejal170" /></a> </p>
 
-- 🔭 I’m currently working on **Unity**
+- 💼 **Background:** Former Game Developer turned Web Security & AI/ML Enthusiast.
 
-- 🌱 I’m currently learning **Game Development**
+- 🔭 **I’m currently working on:** Bug bounty hunting, web application penetration testing, and building custom security labs (like my CWE-200 extraction lab!).
 
-- 👯 I’m looking to collaborate on **Game Development, Web Development, Machine Learning, Any project realted to python**
+- 🌱 **I’m currently learning:** Advanced offensive security methodologies (OWASP Top 10, Active Directory attacks) and machine learning algorithms.
 
-- 🤝 I’m looking for help with **??**
+- 👯 **I’m looking to collaborate on:** CTF competitions, bug bounty recon, full-stack MERN/Django applications, and Python data analysis projects.
 
-- 💬 Ask me about **Unity, Python, Machine Learning, Node js, React, Django, C#**
+- 🤝 **I’m looking for help with:** Navigating the HackerOne landscape and developing advanced web exploits.
 
-- 📫 How to reach me **shreejalkc@gmail.com**
+- 💬 **Ask me about:** Web App Pentesting, Python, Node.js, React, Django, and numerical methods in mathematics.
 
-- ⚡ Fun fact **I think I am funny.**
+- 📫 **How to reach me:** shreejalkc@gmail.com
+
+- ⚡ **Fun fact:** I think I am funny. I also used to think minification was a valid security boundary (just kidding).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
